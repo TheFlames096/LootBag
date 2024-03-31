@@ -1,10 +1,12 @@
 {
-  "item.lootbag.loot_bag": "Loot Bag",
-  "item.lootbag.backpack": "Backpack",
-  "item.lootbag.frost_wand": "Frost Wand",
-  "item.lootbag.magic_mirror": "Magic Mirror",
-  "container.backpack_chest": "Backpack",
-  "explain.lootbag.frost_wand": "Generate frost lasting 15s",
-  "explain.lootbag.magic_mirror": "The best gift is to go home",
-  "message.lootbag.cannotFindRespawnPosition": "Respawn point not set"
+  "item.lootbag.loot_bag_stone": "Loot Bag (Basic Stone Age)",
+  "item.lootbag.loot_bag_steam": "Loot Bag (Steam Age)",
+  "item.lootbag.loot_bag_lv": "Loot Bag (Tier 1 - LV)",
+  "item.lootbag.loot_bag_mv": "Loot Bag (Tier 2 - MV)",
+  "item.lootbag.loot_bag_hv": "Loot Bag (Tier 3 - HV)",
+  "item.lootbag.loot_bag_ev": "Loot Bag (Tier 4 - EV)",
+  "item.lootbag.loot_bag_iv": "Loot Bag (Tier 5 - IV)",
+  "item.lootbag.loot_bag_luv": "Loot Bag (Tier 6 - LuV)",
+  "item.lootbag.loot_bag_zpm": "Loot Bag (Tier 7 - ZPM)",
+  "item.lootbag.loot_bag_uv": "Loot Bag (Tier 8 - UV)"
 }
